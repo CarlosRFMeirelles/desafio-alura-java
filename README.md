@@ -7,4 +7,3 @@ Com um checklist a ser completado:
 - Visualização do saldo
 - Enviar valor
 - Receber valor
-- 
